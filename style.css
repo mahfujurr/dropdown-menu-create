@@ -1,18 +1,53 @@
 body{
     margin: 0%;
+    font-family: 'Nunito', sans-serif;
 }
 h1{
-    font-family: 'Nunito', sans-serif;
     font-size: 70px;
 }
+h2{
+    font-size: 50px;
+}
+
 .header-section{
-    background-image: url(images/pexels-luis-del-río-15286.jpg);
+    background-image: linear-gradient(to right,black,rgba(0, 0, 0, 0)), url(images/pexels-luis-del-río-15286.jpg);
     background-repeat: no-repeat;
-    margin-top: 0%;
-    width: 100%;
-    height: 600px;
+    background-size: 100%;
+    height: 100vh;
     padding-top: 10px;
 }
 .header-div{
+    margin-left: 100px;
+    margin-right: 50%;
+    color: white;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: rgba(0, 255, 255, 0.575);
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.second-section{
+    margin-top: 90px;
+}
+.first-blocks{
+    display: flex;
+    margin-left: 100px;
+}
+.first-blocks img{
+    width: 70%;
+    margin-left: 100px;
+}
+#first-blocks-id{
+    margin-left: px;
+}
+.second-blocks{
+    display: flex;
+    margin-left:px;
+}
+.second-blocks img{
+    width: 60%;
     margin-left: 100px;
 }
