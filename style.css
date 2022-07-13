@@ -40,14 +40,18 @@ h2{
     width: 70%;
     margin-left: 100px;
 }
-#first-blocks-id{
-    margin-left: px;
-}
+
+
+
 .second-blocks{
     display: flex;
-    margin-left:px;
+
 }
 .second-blocks img{
-    width: 60%;
-    margin-left: 100px;
+    width: 55%;
+    margin-left:  100px;
+}
+#para-block{
+    margin-left: -200px;
+    margin-right: 130px;
 }
