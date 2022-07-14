@@ -31,27 +31,23 @@ h2{
 }
 .second-section{
     margin-top: 90px;
+    margin-left: 100px;
 }
 .first-blocks{
     display: flex;
-    margin-left: 100px;
 }
 .first-blocks img{
     width: 70%;
     margin-left: 100px;
 }
 
-
-
-.second-blocks{
+.second-div-block{
     display: flex;
-
 }
-.second-blocks img{
-    width: 55%;
-    margin-left:  100px;
+.second-div-block img{
+    max-width: 60%;
 }
 #para-block{
-    margin-left: -200px;
-    margin-right: 130px;
+    margin-left: -300px;
+    margin-right: 150px;
 }
