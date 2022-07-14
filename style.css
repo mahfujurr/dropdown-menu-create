@@ -8,6 +8,10 @@ h1{
 h2{
     font-size: 50px;
 }
+h5{
+    font-size: 20px;
+    font-weight: 700;
+}
 
 .header-section{
     background-image: linear-gradient(to right,black,rgba(0, 0, 0, 0)), url(images/pexels-luis-del-río-15286.jpg);
@@ -39,6 +43,7 @@ h2{
 .first-blocks img{
     width: 70%;
     margin-left: 100px;
+    border-radius: 10px;
 }
 
 .second-div-block{
@@ -46,8 +51,55 @@ h2{
 }
 .second-div-block img{
     max-width: 60%;
+    border-radius: 10px;
 }
 #para-block{
     margin-left: -300px;
     margin-right: 150px;
+}
+.para-and-header{
+    text-align: center;
+    margin: 0 25% 0 25%;
+}
+.third-section{
+    margin-top: 90px;
+}
+.fourth-section{
+    margin-top: 90px;    
+}
+.first-two-block{
+    display: flex;
+    margin-left: 15%;
+    margin-right: 10%;
+}
+.icon-block{
+    display: flex;
+    margin-right: px;
+    background-color: rgba(0, 255, 255, 0.096);
+    border-radius: 10px;
+    padding: 0% 1%;
+    margin-right: 5%;
+}
+.icon-block img{
+    width: 50%;
+    margin-top: 15%;
+    margin-left: 25%;
+}
+.icon-para{
+    margin-top: 1%;
+    text-align: justify;
+}
+.header-five-class{
+    margin-bottom: 0;
+    margin-top: 25px;
+}
+.icon-header-para{
+    margin-right: 10px;
+
+}
+.second-two-block{
+    display: flex;
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-top: 20px;
 }
